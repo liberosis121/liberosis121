@@ -34,8 +34,8 @@ I am currently seeking opportunities to strengthen my software engineering skill
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/T--SQL-Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="T-SQL">
-  <img src="https://img.shields.io/badge/PL%2FSQL-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="PL/SQL">
+  <img src="https://img.shields.io/badge/T--SQL-4B5563?style=flat-square" alt="T-SQL">
+  <img src="https://img.shields.io/badge/PL%2FSQL-4B5563?style=flat-square" alt="PL/SQL">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
 </p>
@@ -95,11 +95,13 @@ Expected graduation: August 2027
 - **TOEIC Listening & Reading:** 865/990
 - **IBM – Python for Data Science, AI & Development**, Coursera
 
-## GitHub Overview
+## GitHub Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=liberosis121&show_icons=true&hide_border=true" alt="GitHub statistics">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liberosis121&layout=compact&hide_border=true" alt="Most used languages">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=liberosis121&show_icons=true&hide_border=true"
+    alt="GitHub statistics"
+  >
 </p>
 
 <p align="center">
