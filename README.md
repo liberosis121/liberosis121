@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tran Kim Yen </h1>
+<h1 align="center">Hi, I'm Tran Kim Yen ! </h1>
 
 <p align="center">
   <b>Information Systems Student | Aspiring Software Engineer</b>
@@ -34,19 +34,10 @@ I am currently seeking opportunities to strengthen my software engineering skill
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/T--SQL-Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="T-SQL">
+  <img src="https://img.shields.io/badge/PL%2FSQL-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="PL/SQL">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
-</p>
-
-### Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React.js">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Windows_Forms-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Windows Forms">
-  <img src="https://img.shields.io/badge/ADO.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ADO.NET">
 </p>
 
 ### Databases and Tools
@@ -67,7 +58,6 @@ A C# Windows Forms application for managing reservations, room allocation, check
 
 **My roles:** Team Leader, Business Analyst, and Full-stack Application Developer  
 **Technologies:** C#, Windows Forms, Guna UI2, ADO.NET, SQL Server  
-**Project grade:** 9.0/10
 
 Key contributions:
 
@@ -85,7 +75,6 @@ A web-based platform for managing appointments, medical records, vaccinations, a
 
 **My roles:** Business Analyst, Database Designer, and Frontend Developer  
 **Technologies:** React.js, Tailwind CSS, SQL Server, Node.js, Express, Azure  
-**Project grade:** 9.4/10
 
 Key contributions:
 
