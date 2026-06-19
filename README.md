@@ -104,7 +104,8 @@ Expected graduation: August 2027
   >
 </p>
 
+---
+
 <p align="center">
   Thanks for visiting my profile!
 </p>
-```
