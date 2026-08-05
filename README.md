@@ -111,5 +111,5 @@ Expected graduation: October 2027
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=70a5fd&height=40&section=footer&text=Thanks%20for%20visiting%20my%20profile!%20✨&fontSize=16" alt="Thanks" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=dbeafe&height=40&section=footer&text=Thanks%20for%20visiting%20my%20profile!%20✨&fontSize=16&fontColor=2f80ed" alt="Thanks" />
 </p>
