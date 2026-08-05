@@ -17,7 +17,7 @@
 
 I am a final-year Information Systems student at VNUHCM – University of Science. 
 
-Through academic and practical projects, I have gained experience as a Full-stack Developer with backend expertise:
+Through academic and practical projects, I have gained hands-on experience in both frontend and backend development:
 
 - Analysing business requirements and modelling systems with UML
 - Designing conceptual, logical, and physical database models (PostgreSQL, SQL Server, Oracle)
@@ -111,5 +111,5 @@ Expected graduation: October 2027
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2f80ed&height=40&section=footer&text=Thanks%20for%20visiting%20my%20profile!%20✨&fontSize=16" alt="Thanks" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=70a5fd&height=40&section=footer&text=Thanks%20for%20visiting%20my%20profile!%20✨&fontSize=16" alt="Thanks" />
 </p>
