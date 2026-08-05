@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Tran%20Kim%20Yen&fontSize=40" alt="Header" />
-</p>
-
 <h1 align="center">Hi, I'm Tran Kim Yen ! </h1>
 
 <p align="center">
@@ -102,21 +98,10 @@ Expected graduation: August 2027
 ## GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=liberosis121&theme=onedark" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=liberosis121&theme=react" alt="GitHub Activity Graph" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=liberosis121&theme=tokyonight" alt="GitHub Streak" />
-  </a>
+  <img
+    src="./profile/stats.svg"
+    alt="GitHub statistics"
+  >
 </p>
 
 ---
