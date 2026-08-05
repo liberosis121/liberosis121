@@ -17,7 +17,7 @@
 
 I am a final-year Information Systems student at VNUHCM – University of Science. 
 
-Through academic and practical projects, I have gained hands-on experience in both frontend and backend development:
+Through academic and practical projects, I have gained hands-on experience across the software development lifecycle, from business analysis to frontend and backend implementation:
 
 - Analysing business requirements and modelling systems with UML
 - Designing conceptual, logical, and physical database models (PostgreSQL, SQL Server, Oracle)
