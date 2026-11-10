@@ -103,7 +103,7 @@ Expected graduation: October 2027
 
 <p align="center">
   <img
-    src="./profile/stats.svg?v=1794220163"
+    src="./profile/stats.svg?v=1794306746"
     alt="GitHub statistics"
   >
 </p>
